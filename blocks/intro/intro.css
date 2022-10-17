@@ -1,0 +1,21 @@
+.intro {
+  max-width: 90%;
+  margin: 0 auto 0 auto;
+}
+@media screen and (min-width: 1280px) {
+  .intro {
+    max-width: 54%;
+    margin-left: calc((100% - 77%)/2);
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .intro {
+    max-width: 67%;
+    margin-left: calc((100% - 90.5%)/2);
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .intro {
+    max-width: 93.5%;
+  }
+}
