@@ -21,7 +21,7 @@
 ![Alt-Эльбрус](./images/photo-grid-elbrus.png)
 
 ### Ссылка на сайт:
-[текст ссылки]
+[https://lighttross.github.io/russian-travel/index.html]
 
 ### Рекомендации к использованию:
 ---------------------------------
