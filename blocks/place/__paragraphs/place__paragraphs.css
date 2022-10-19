@@ -1,4 +1,5 @@
 .place__paragraphs {
   display: grid;
   gap: 25px;
+  grid-template-rows: min-content;
 }
